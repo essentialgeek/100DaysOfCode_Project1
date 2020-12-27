@@ -5,6 +5,9 @@ This project is from the Udemy course "50 Projects in 50 Days" by Brad Traversy 
 Since this is part of my first "100 Days" journey, I wanted to make some notes to myself about what I would like to learn more about, based on this lesson:
 
 Things I want to learn more about:
+<ul>
+  <li>Javascript arrow functions</li>
+ </ul>
 -Javascript arrow functions
 -Javascript forEach method
 -querySelectorAll method (can always learn more about the DOM methods)
