@@ -19,7 +19,7 @@ Things I want to learn more about:
   <li>I had to change the background-size for the photos (in the panel div) to "auto"; when using "auto 100%" the photos weren't wide enough when displayed on a desktop browser.</li>
 </ul>
 
-<h3>Questions for me to explore:<h3>
+<h3>Questions for me to explore:</h3>
 <ul>
   <li>How might I work this into a page with other content above and/or below the expanding card?</li>
 </ul>
